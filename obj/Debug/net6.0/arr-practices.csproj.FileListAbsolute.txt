@@ -1,0 +1,15 @@
+C:\Users\TRA\Desktop\code-TRA\arr-practices\arr-practices\bin\Debug\net6.0\arr-practices.exe
+C:\Users\TRA\Desktop\code-TRA\arr-practices\arr-practices\bin\Debug\net6.0\arr-practices.deps.json
+C:\Users\TRA\Desktop\code-TRA\arr-practices\arr-practices\bin\Debug\net6.0\arr-practices.runtimeconfig.json
+C:\Users\TRA\Desktop\code-TRA\arr-practices\arr-practices\bin\Debug\net6.0\arr-practices.dll
+C:\Users\TRA\Desktop\code-TRA\arr-practices\arr-practices\bin\Debug\net6.0\arr-practices.pdb
+C:\Users\TRA\Desktop\code-TRA\arr-practices\arr-practices\obj\Debug\net6.0\arr-practices.csproj.AssemblyReference.cache
+C:\Users\TRA\Desktop\code-TRA\arr-practices\arr-practices\obj\Debug\net6.0\arr-practices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TRA\Desktop\code-TRA\arr-practices\arr-practices\obj\Debug\net6.0\arr-practices.AssemblyInfoInputs.cache
+C:\Users\TRA\Desktop\code-TRA\arr-practices\arr-practices\obj\Debug\net6.0\arr-practices.AssemblyInfo.cs
+C:\Users\TRA\Desktop\code-TRA\arr-practices\arr-practices\obj\Debug\net6.0\arr-practices.csproj.CoreCompileInputs.cache
+C:\Users\TRA\Desktop\code-TRA\arr-practices\arr-practices\obj\Debug\net6.0\arr-practices.dll
+C:\Users\TRA\Desktop\code-TRA\arr-practices\arr-practices\obj\Debug\net6.0\refint\arr-practices.dll
+C:\Users\TRA\Desktop\code-TRA\arr-practices\arr-practices\obj\Debug\net6.0\arr-practices.pdb
+C:\Users\TRA\Desktop\code-TRA\arr-practices\arr-practices\obj\Debug\net6.0\arr-practices.genruntimeconfig.cache
+C:\Users\TRA\Desktop\code-TRA\arr-practices\arr-practices\obj\Debug\net6.0\ref\arr-practices.dll
